@@ -1,0 +1,28 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "An app that let users track the burgers that they want to eat.  Once a burger has been eaten, it'd be listed as eaten.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guhuyan/burger.git"
+  },
+  "keywords": [
+    "burger",
+    "tracking"
+  ],
+  "author": "Gue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Guhuyan/burger/issues"
+  },
+  "homepage": "https://github.com/Guhuyan/burger#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "mysql": "^2.17.1"
+  }
+}
